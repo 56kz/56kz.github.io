@@ -73,7 +73,7 @@ textarea{
     top: -20px;
 }
 .name{
-  color:#00bcd4;
+  color: white;
 }
 .dark-div {
   background-color: rgba(0, 0 ,0 , 0.2);
@@ -85,14 +85,15 @@ textarea{
     margin-bottom: 15px;
     text-transform: uppercase;
     padding-top: 300px;
-    color: #fff;
+    color: #00bcd4;
 }
 .home-subtitle {
     font-size: 23px;
     font-weight: 300;
+    font-weight: bold;
     margin-bottom: 38px;
     text-transform: uppercase;
-    color: #fff;
+    color: #00bcd4;
 }
 @media (max-height: 680px){
     #home {
