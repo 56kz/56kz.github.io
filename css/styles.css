@@ -90,10 +90,10 @@ textarea{
 .home-subtitle {
     font-size: 23px;
     font-weight: 300;
-    font-weight: bold;
+
     margin-bottom: 38px;
     text-transform: uppercase;
-    color: #00bcd4;
+    color: #ffffff80;
 }
 @media (max-height: 680px){
     #home {
@@ -125,13 +125,13 @@ textarea{
         font-weight: 300;
         margin-bottom: 38px;
         text-transform: uppercase;
-        color: #fff;
+        color: #ffffff80;
     }
 }
 @media (max-width: 425px){
     .home-title {
         font-size: 30px;
-        font-weight: 700;
+        font-weight: bold;
         margin-bottom: 15px;
         text-transform: uppercase;
         padding-top: 300px;
@@ -142,7 +142,7 @@ textarea{
         font-weight: 300;
         margin-bottom: 38px;
         text-transform: uppercase;
-        color: #fff;
+        color:  #ffffff80;
     }
 }
 
